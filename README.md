@@ -1,21 +1,18 @@
-# Title
+# Product
 
 <!-- 
 this project was generated with https://github.com/devs-from-matrix/basic-template-repository. 
 -->
 
-## [Documentation](https://devs-from-matrix.github.io/basic-template-repository/)
-
 ## How to build ?
 
-<!-- mention the steps for building this project -->
+`mvn clean install`
 
 ## How to start ?
 
-<!-- mention the steps for starting or serving this project -->
+`cd bootstrap && mvn spring-boot:run`
 
-## Contribution guidelines
+## Swagger documentation
 
-We are really glad you're reading this, because we need volunteer developers to help this project come to fruition.
+Once you [start](#how-to-start-) you ca open the swagger page with http://localhost:8082/swagger-ui.html
 
-Request you to please read our [contribution guidelines](https://devs-from-matrix.github.io/basic-template-repository/#/README?id=contribution-guidelines)
