@@ -14,5 +14,5 @@ this project was generated with https://github.com/devs-from-matrix/basic-templa
 
 ## Swagger documentation
 
-Once you [start](#how-to-start-) you ca open the swagger page with http://localhost:8082/swagger-ui.html
+Once you [start](#how-to-start-) you can open the swagger page with http://localhost:8082/swagger-ui.html
 
